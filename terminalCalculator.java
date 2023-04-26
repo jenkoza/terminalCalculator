@@ -119,6 +119,7 @@ public class terminalCalculator {
                         
                                } catch (Exception e) {
                                 System.out.println("\n" + "Your first number was not a valid number." + "\n" );
+                                break infiniteloop;
                                 
                                }
                     //SPACER
